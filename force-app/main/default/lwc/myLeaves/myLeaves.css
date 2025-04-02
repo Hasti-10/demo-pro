@@ -1,0 +1,65 @@
+ /* .approved-row {
+    background-color: #d4edda; /* Light green 
+    color: green;
+    font-weight: bold;
+}
+
+.pending-row {
+    background-color: #fff3cd; /* Light yellow 
+    color: orange;
+    font-weight: bold;
+}
+
+.rejected-row {
+    background-color: #f8d7da; /* Light red 
+    color: red;
+    font-weight: bold;
+} */
+
+.login-container {
+    max-width: 400px;
+    margin: 5px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.login-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.login-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0070d2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.login-button:hover {
+    background-color: #005fb2;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 10px;
+}
+
